@@ -1,5 +1,9 @@
 # TaskFlow
 
+## Live Demo
+
+Coming soon.
+
 TaskFlow is a lightweight full-stack task board built as a take-home assignment for a Full-Stack Developer role.
 
 It allows users to create, edit, delete, filter, and move tasks between columns. All changes are persisted to a SQLite database through a Node.js/Express backend.
