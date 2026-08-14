@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://taskflow-fullstack-1lir.onrender.com/api";;
 
 const priorities = ["Low", "Medium", "High"];
 
